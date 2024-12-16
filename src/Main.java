@@ -1,4 +1,6 @@
-
+/**
+ * Головний клас програми для демонстрації роботи з музичним альбомом.
+ */
 public class Main {
     public static void main(String[] args) {
         Album album = new Album();
